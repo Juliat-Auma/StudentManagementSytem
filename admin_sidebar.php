@@ -30,11 +30,15 @@
 	</li>
 
 	<li>
-		<a href="">Add Courses</a>
+		<a href="add_courses.php">Add Courses</a>
 	</li>
 
 	<li>
-		<a href="">View Courses</a>
+		<a href="admin_view_courses.php">View Courses</a>
+	</li>
+
+	<li>
+		<a href="admin_add_units.php">Add Units</a>
 	</li>
 </ul>
 
